@@ -1,0 +1,6 @@
+%include geom.fdf 
+%block kgrid.MonkhorstPack)
+        8 0 0 0)
+        0 8 0 0 0)
+        0 0 1  0)
+        %endblock kgrid.MonkhorstPack 
