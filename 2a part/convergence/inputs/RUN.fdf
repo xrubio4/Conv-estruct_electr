@@ -1,0 +1,3 @@
+%include geom.fdf 
+PAO.numK DZP 
+TS.HS.Save true
